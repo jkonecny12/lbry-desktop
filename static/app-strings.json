@@ -831,5 +831,9 @@
   "Discussion": "Discussion",
   "If you don't choose a file, the file from your existing claim %name% will be used": "If you don't choose a file, the file from your existing claim %name% will be used",
   "To enable this feature, check 'Save Password' the next time you start the app.": "To enable this feature, check 'Save Password' the next time you start the app.",
-  "An email address is required to sync your account.": "An email address is required to sync your account."
+  "An email address is required to sync your account.": "An email address is required to sync your account.",
+  "for your first publish!": "for your first publish!",
+  "Your videos are ready to be transferred.": "Your videos are ready to be transferred.",
+  "Ready to transfer": "Ready to transfer",
+  "Claim Channel": "Claim Channel"
 }
